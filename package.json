@@ -1,0 +1,26 @@
+{
+  "name": "a-ts-trap-webpack",
+  "version": "1.0.0",
+  "description": "TypeScript https://doc.webpack-china.org/guides/typescript/",
+  "main": "out.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfirecode/A-Ts-Trap-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildfirecode/A-Ts-Trap-webpack/issues"
+  },
+  "homepage": "https://github.com/wildfirecode/A-Ts-Trap-webpack#readme",
+  "devDependencies": {
+    "ts-loader": "^4.0.0",
+    "typescript": "^2.7.2",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^2.0.9"
+  }
+}
